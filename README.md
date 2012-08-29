@@ -122,8 +122,13 @@ An EE2 addon that helps to make working with models in custom addons a little ni
 	));
 
 
+##Roadmap
 
-
-
+- Channel entries support
+- Categories
+- Validations
+- Usage of an instance class to wrap the data in
+- Serialization support (json, xml, csv)
+ 
 
 
