@@ -2,6 +2,13 @@
 An EE2 addon that helps to make working with models in custom addons a little nicer.
 
 
+##Installation
+1. Download the addon (Click the Zip link &uarr; there)
+2. Unzip the download and rename to model_factory
+3. Put it in the third_party folder of your EE install
+4. Cue the [music](http://youtu.be/lG6qx-CAIzA?t=6s "music")
+
+
 ##Example Usage
 
 ###Define your model
